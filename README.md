@@ -2,7 +2,8 @@
 
 ## Project Overview
 
-This repository contains an end-to-end machine learning pipeline for predicting and analyzing industrial electrical load and energy consumption in the steel manufacturing sector. Using high-frequency sensor and operational data across 35,040 records, the project models energy usage patterns to optimize factory power management and operational efficiency. I did this project in collaboration with United Network Of Professionals (UNP) on Credit Card Risk Prediction Using Python.This is a group project completed as part of our internship.
+This repository contains an end-to-end machine learning pipeline for predicting and analyzing industrial electrical load and energy consumption in the steel manufacturing sector. Using high-frequency sensor and operational data across 35,040 records, the project models energy usage patterns to optimize factory power management and operational efficiency. I did this project in collaboration with United Network Of Professionals (UNP) on Credit Card Risk Prediction Using Python.This is a group project completed as part of our internship. 
+The link for the project materials(code and PPT) is : https://drive.google.com/drive/folders/1P7f7Q0XirSysy7bGBoPxN9w01HMujOn8?usp=sharing
 
 ## Problem Statement
 
